@@ -1,4 +1,4 @@
-# Canl-daki-Projelerim
+# Canlıdaki-Projelerim
 Canlıdaki Projelerimi Görüntülemek için kullandığım repo
 
 ## Canlıdaki Projeler
